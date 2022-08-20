@@ -1,0 +1,42 @@
+[
+    {
+        "Question":" Which company developed dart programming language", 
+        "options":{
+            "a":"Google",
+            "b":"Microsoft",
+            "c":"Meta",
+            "d":"Apple"
+        },
+        "Answer":["google"]
+    },
+    {
+        "Question":" Which keyword in Dart is used to create a subclass", 
+        "options":{
+            "a":"subclass",
+            "b":"super",
+            "c":"cast",
+            "d":"extends"
+        },
+        "Answer":["extends"]
+    },
+    {
+        "Question":" Who created Flutter programing language?", 
+        "options":{
+            "a":"Dennis M. Ritchie",
+            "b":"Kasper Lund",
+            "c":"Navneet Dalal",
+            "d":"Guido van Rossum"
+        },
+        "Answer":["navneet dalal"]
+    },
+    {
+        "Question":" An _________ is a real-time representation of any entity", 
+        "options":{
+            "a":"class",
+            "b":"object",
+            "c":"method",
+            "d":"None"
+        },
+        "Answer":["object"]
+    }
+]

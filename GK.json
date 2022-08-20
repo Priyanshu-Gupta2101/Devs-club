@@ -1,0 +1,42 @@
+[
+    {
+        "Question":" What\u2019s the national vegetable of India?", 
+        "options":{
+            "a":"Cauliflower",
+            "b":"Egg Plant",
+            "c":"Potato",
+            "d":"Pumpkin"
+        },
+        "Answer":["pumpkin"]
+    },
+    {
+        "Question":" What country has the most islands in the world?", 
+        "options":{
+            "a":"Cuba",
+            "b":"Sweden",
+            "c":"Dominican Republic",
+            "d":"Cannada"
+        },
+        "Answer":["sweden"]
+    },
+    {
+        "Question":" What is the fear of seeing pattern/clusters of holes called ?", 
+        "options":{
+            "a":"Trypophobia",
+            "b":"Atychiphobia",
+            "c":"Thanatophobia",
+            "d":"Arachnophobia"
+        },
+        "Answer":["trypophobia"]
+    },
+    {
+        "Question":" Name the best-selling book series of the 21st century?", 
+        "options":{
+            "a":"Lord of the Rings",
+            "b":"Hunger Games",
+            "c":"Harry Potter",
+            "d":"The Chronicles of Narnia"
+        },
+        "Answer":["harry potter"]
+    }
+]
