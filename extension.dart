@@ -5,7 +5,7 @@ class Dart extends topics{
   @override
   void values(){
     this.topic="Dart";
-    this.filename = "C:/Users/Notmeduh/Desktop/Dart codes/dart_project/dart.json";
+    this.filename = "./dart.json";
   }
 
   Future<int> Questionmodel()async{
@@ -22,7 +22,7 @@ class Gk extends topics{
   @override
   void values(){
     this.topic="GK";
-    this.filename = "C:/Users/Notmeduh/Desktop/Dart codes/dart_project/GK.json";
+    this.filename = "./GK.json";
   }
 
   Future<int> Questionmodel()async{
